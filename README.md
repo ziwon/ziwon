@@ -5,7 +5,7 @@ apiVersion: me/v1
 kind: Greeting
 metadata:
   status: "avaliable for an awesome cloud-native opportunity"
-  role: "devops engineer"
+  role: "cloud engineer"
 skills:
   - "linux, docker, kubernetes, terraform, ansible, ci/cd"
   - "python, golang, shell, java"
