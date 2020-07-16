@@ -1,4 +1,6 @@
 ### Hi, I'm Aaron 👋
+![](./images/dc.jpg)
+
 ```yaml
 ---
 apiVersion: me/v1
