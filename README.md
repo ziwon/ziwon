@@ -1,14 +1,15 @@
 ### Hi, I'm Aaron 👋
-![](./images/dc.jpg)
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+
 ```yaml
 ---
 apiVersion: me/v1
 kind: Greeting
 metadata:
   status: "avaliable for an awesome cloud-native opportunity"
-  role: "cloud engineer"
+  role: "Full stackoverflow cloud engineer"
 skills:
-  - "linux, docker, kubernetes, terraform, ansible, ci/cd"
+  - "linux, docker, kubernetes, terraform, ansible, ci/cd, monitoring, logging"
   - "python, golang, shell, java"
 environment:
   - "EQ > IQ"
@@ -23,3 +24,6 @@ environment:
 contact:
   email: yngpil.yoon@gmail.com
 ```
+
+### GitHub Stats
+![Ziwon's github stats](https://github-readme-stats.vercel.app/api?username=ziwon&show_icons=true&theme=radical)
