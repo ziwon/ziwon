@@ -13,9 +13,9 @@ skills:
   - "python/lua, golang, shell, javascript, java/dart"
 speaking:
   korean: "native"
-  english: "workable with global support engineer"
+  english: "workable with a global support engineer"
   japanese: "survivable as a tourist"
-  vietnamese: "interesting, been swindled"
+  vietnamese: "interesting, cuz been swindled"
 environment:
   - "EQ > IQ"
   - "FLAT ORGANIZATION"
