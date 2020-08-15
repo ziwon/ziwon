@@ -11,6 +11,11 @@ metadata:
 skills:
   - "linux, docker, kubernetes, terraform, ansible, ci/cd, monitoring, logging"
   - "python/lua, golang, shell, javascript, java/dart"
+speaking:
+  korean: "native"
+  english: "workable with global support engineer"
+  japanese: "survivable as a tourist"
+  vietnamese: "interesting, been swindled"
 environment:
   - "EQ > IQ"
   - "FLAT ORGANIZATION"
