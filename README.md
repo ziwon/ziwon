@@ -48,7 +48,8 @@
  
 #### Contributions
  - [bitnami/bitnami-docker-consul](https://github.com/bitnami/bitnami-docker-consul/pull/6)
- - [terra-project/core](https://github.com/terra-project/core)
+ - [terra-project/core](https://github.com/terra-project/core/commits?author=ziwon)
+ - [nekoyume/nekoyume](https://github.com/nekoyume/nekoyume/commits?author=ziwon)
  - [golangkorea/effective-go](https://github.com/golangkorea/effective-go/blob/master/concurrency.md)
  - [glasslion/redlock](https://github.com/glasslion/redlock/pull/18)
  
