@@ -28,7 +28,7 @@
  
 #### Database
  - [airflow-boilerplate](https://github.com/ziwon/airflow-boilerplate): Alpine based Airflow boilerplate
- - [MySync](https://github.com/ziwon/MySync): A MySQL schema synchronization utility (Added stored procedure and misc.)
+ - [MySync](https://github.com/ziwon/MySync/commits/master): A MySQL schema synchronization utility (Added stored procedure sync. and misc.)
  - [SQLoover](https://github.com/ziwon/SQLoover): Learning stuffs for SQL
  
 #### AI & Deep Learning
