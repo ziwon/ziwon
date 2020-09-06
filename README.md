@@ -18,11 +18,11 @@
  - [terraform-vpc-network](https://github.com/ziwon/terraform-vpc-network): Terraform VPC networking for site-to-site VPN
  - [terraform-fluetnd-aggregator](https://github.com/ziwon/terraform-fluentd-aggregator): Terraform managed Fluentd aggregator on AWS Fargate
  - [fluent-bit-docker-metadata](https://github.com/ziwon/fluent-bit-docker-metadata): Lua script to parse Docker Swarm metadata for fluent-bit
- - [efk-swarm](https://github.com/ziwon/efk-swarm): EFK (Elasticsearch, FluentBit, Fluentd, Kibana) stack with Docker Composer
  - [consulator](https://github.com/ziwon/consulator): Simple consul leader election with Python
+ - [efk-swarm](https://github.com/ziwon/efk-swarm): EFK (Elasticsearch, FluentBit, Fluentd, Kibana) stack with Docker Composer
 
 #### API 
- - [koa-rest-api-docs](https://github.com/ziwon/koa-rest-api-docs): Terraform managed Koa RESTful API template for auto-documentation
+ - [koa-rest-api-docs](https://github.com/ziwon/koa-rest-api-docs): Terraform managed Koa RESTful API template for auto-documentations
  - [falcon-rest-api](https://github.com/ziwon/falcon-rest-api): Falcon REST API with PostgreSQL using ORM
  - [docker-rails](https://github.com/ziwon/docker-rails): Dockerized rails
  
