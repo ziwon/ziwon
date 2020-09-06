@@ -38,8 +38,9 @@
  - [learning-tensorflow](https://github.com/ziwon/learning-tensorflow): Learning about tensorflow
  - [strang-linear-algebra](https://github.com/ziwon/strang-linear-algebra): MIT Linear Algebra self-taught
  
-#### Mobile
- - [curebear/simple-flutter](https://github.com/curebear/simple-flutter): A boilerplate project created in flutter using MobX, get-it, Chopper, simple_auth
+#### Mobile & Web
+ - [simple-flutter](https://github.com/curebear/simple-flutter): A boilerplate project created in flutter using MobX, get-it, Chopper, simple_auth
+ - [django-sb-admin2-dark](https://github.com/ziwon/django-sb-admin2-dark): Django based admin theme
 
 #### Shell
  - [ziwon.sh](https://github.com/ziwon/ziwon.sh)
@@ -49,6 +50,7 @@
  - [bitnami/bitnami-docker-consul](https://github.com/bitnami/bitnami-docker-consul/pull/6)
  - [terra-project/core](https://github.com/terra-project/core)
  - [golangkorea/effective-go](https://github.com/golangkorea/effective-go/blob/master/concurrency.md)
+ - [glasslion/redlock](https://github.com/glasslion/redlock/pull/18)
  
 #### Lifelong learning
  - [Architecting with Google Kubernetes Engine Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/2YAPUHL7DTBS)
