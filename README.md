@@ -5,7 +5,7 @@
 [![twitter](https://badgen.net/badge/twitter/theluno/green?icon=twitter)](https://twitter.com/theluno)
 [![docker](https://badgen.net/badge/docker/ziwon/blue?icon=docker)](https://hub.docker.com/u/ziwon)
 [![keybase](https://badgen.net/badge/keybase/ziwon/red?icon=keybase)](https://keybase.io/ziwon)
-[![email](https://badgen.net/badge/email/yngpil.yoon@gmail.com/cyan?icon=awesome)](mailto://yngpil.yoon@gmail.com)
+[![email](https://badgen.net/badge/email/yngpil.yoon@gmail.com/cyan?icon=awesome)](mailto:yngpil.yoon@gmail.com)
 
 
 
