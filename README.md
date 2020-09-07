@@ -1,6 +1,14 @@
 ### Hi, I'm Aaron 👋
 <!-- ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg) -->
 
+[![blog](https://badgen.net/badge/blog/ziwon.github.io/yellow?icon=rss)](https://ziwon.github.io)
+[![twitter](https://badgen.net/badge/twitter/theluno/green?icon=twitter)](https://twitter.com/theluno)
+[![docker](https://badgen.net/badge/docker/ziwon/blue?icon=docker)](https://hub.docker.com/ziwon)
+[![keybase](https://badgen.net/badge/keybase/ziwon/red?icon=keybase)](https://keybase.io/ziwon)
+[![email](https://badgen.net/badge/email/yngpil.yoon@gmail.com/cyan?icon=awesome)](mailto://yngpil.yoon@gmail.com)
+
+
+
 ### GitHub Stats
 <p align="center">
 <a href="https://github.com/ziwon/ziwon">
@@ -13,7 +21,7 @@
 
 ### Projects
 
-#### Infra
+#### DevOps
  - [dokkery](https://github.com/ziwon/dokkery): Docker registry event handler for CI/CD
  - [terraform-vpc-network](https://github.com/ziwon/terraform-vpc-network): Terraform VPC networking for site-to-site VPN
  - [terraform-fluetnd-aggregator](https://github.com/ziwon/terraform-fluentd-aggregator): Terraform managed Fluentd aggregator on AWS Fargate
@@ -26,8 +34,9 @@
  - [falcon-rest-api](https://github.com/ziwon/falcon-rest-api): Falcon REST API with PostgreSQL using ORM
  - [docker-rails](https://github.com/ziwon/docker-rails): Dockerized rails
  
-#### Database
+#### Bitdata & Database
  - [airflow-boilerplate](https://github.com/ziwon/airflow-boilerplate): Alpine based Airflow boilerplate
+ - [kafka-learning](https://github.com/ziwon/kafka-learning): Go from Zero to Hero in Kafka
  - [MySync](https://github.com/ziwon/MySync/commits/master): A MySQL schema synchronization utility (Added stored procedure sync. and misc.)
  - [SQLoover](https://github.com/ziwon/SQLoover): Learning stuffs for SQL
  
