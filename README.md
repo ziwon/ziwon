@@ -3,7 +3,7 @@
 
 [![blog](https://badgen.net/badge/blog/ziwon.github.io/yellow?icon=rss)](https://ziwon.github.io)
 [![twitter](https://badgen.net/badge/twitter/theluno/green?icon=twitter)](https://twitter.com/theluno)
-[![docker](https://badgen.net/badge/docker/ziwon/blue?icon=docker)](https://hub.docker.com/ziwon)
+[![docker](https://badgen.net/badge/docker/ziwon/blue?icon=docker)](https://hub.docker.com/u/ziwon)
 [![keybase](https://badgen.net/badge/keybase/ziwon/red?icon=keybase)](https://keybase.io/ziwon)
 [![email](https://badgen.net/badge/email/yngpil.yoon@gmail.com/cyan?icon=awesome)](mailto://yngpil.yoon@gmail.com)
 
@@ -34,7 +34,7 @@
  - [falcon-rest-api](https://github.com/ziwon/falcon-rest-api): Falcon REST API with PostgreSQL using ORM
  - [docker-rails](https://github.com/ziwon/docker-rails): Dockerized rails
  
-#### Bitdata & Database
+#### Big Data & Database
  - [airflow-boilerplate](https://github.com/ziwon/airflow-boilerplate): Alpine based Airflow boilerplate
  - [kafka-learning](https://github.com/ziwon/kafka-learning): Go from Zero to Hero in Kafka
  - [MySync](https://github.com/ziwon/MySync/commits/master): A MySQL schema synchronization utility (Added stored procedure sync. and misc.)
