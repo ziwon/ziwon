@@ -14,7 +14,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ziwon&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/ziwon/ziwon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziwon&hide=html,css,js&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziwon&hide=html,css,jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 </p>
 
@@ -60,6 +60,9 @@
  - [nekoyume/nekoyume](https://github.com/nekoyume/nekoyume/commits?author=ziwon)
  - [golangkorea/effective-go](https://github.com/golangkorea/effective-go/blob/master/concurrency.md)
  - [glasslion/redlock](https://github.com/glasslion/redlock/pull/18)
+ 
+#### Certifications
+ - [AWS Certified Solutions Architect – Associate](https://www.youracclaim.com/badges/2f742782-9432-432c-a38f-11c95d4a0359)
  
 #### Lifelong learning
  - [Architecting with Google Kubernetes Engine Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/2YAPUHL7DTBS)
