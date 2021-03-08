@@ -1,9 +1,12 @@
 ### Hi, I'm Aaron 👋
 <!-- ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg) -->
 [![blog](https://img.shields.io/badge/blog-040d04?style=for-the-badge&logo=github)](https://ziwon.github.io)
-[![twitter](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/theluno)
+[![twitter](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/theluno)
 [![keybase](https://img.shields.io/badge/keybase-dd2a7b?style=for-the-badge&logo=keybase&logoColor=white)](https://keybase.io/ziwon)
-[![gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:yngpil.yoon@gmail.com)
+[![aws](https://img.shields.io/badge/-AWS-ff6f21.svg?style=for-the-badge&logo=amazon-aws)](https://www.youracclaim.com/badges/2f742782-9432-432c-a38f-11c95d4a0359)
+[![gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yngpil.yoon@gmail.com)
+[![restack](https://img.shields.io/badge/restack-0077B5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://restack.tech)
+
 
 ### GitHub Stats
 <p align="center">
