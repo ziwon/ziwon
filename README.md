@@ -1,8 +1,8 @@
 ### Hi, I'm Aaron 👋
 <!-- ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg) -->
-[![blog](https://img.shields.io/badge/ziwon.github.io-blog-2bbc8a?style=for-the-badge&logo=github)](https://ziwon.github.io)
+[![blog](https://img.shields.io/badge/blog-040d04?style=for-the-badge&logo=github)](https://ziwon.github.io)
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeongpil-yoon/)
-[![keybase](https://img.shields.io/badge/Keybase-ziwon-brightgreen?style=for-the-badge&logo=keybase)](https://keybase.io/ziwon)
+[![keybase](https://img.shields.io/badge/keybase-ff6f21?style=for-the-badge&logo=keybase&logoColor=white)](https://keybase.io/ziwon)
 [![gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:yngpil.yoon@gmail.com)
 
 ### GitHub Stats
