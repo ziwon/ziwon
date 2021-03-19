@@ -28,6 +28,7 @@
  - [fluent-bit-docker-metadata](https://github.com/ziwon/fluent-bit-docker-metadata): Lua script to parse Docker Swarm metadata for fluent-bit
  - [consulator](https://github.com/ziwon/consulator): Simple consul leader election with Python
  - [efk-swarm](https://github.com/ziwon/efk-swarm): EFK (Elasticsearch, FluentBit, Fluentd, Kibana) stack with Docker Composer
+ - [ziwon/k8s-labs-2019](https://github.com/ziwon/ziwon/k8s-labs-2019): Just another Kubernetes Playground (Archived)
 
 #### API 
  - [koa-rest-api-docs](https://github.com/ziwon/koa-rest-api-docs): Terraform managed Koa RESTful API template for auto-documentations
