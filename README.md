@@ -64,7 +64,8 @@
  - [glasslion/redlock](https://github.com/glasslion/redlock/pull/18)
  
 #### Certifications
- - [AWS Certified Solutions Architect – Associate](https://www.youracclaim.com/badges/2f742782-9432-432c-a38f-11c95d4a0359)
+ - [(2022) CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/e1ed43df-9b83-4999-a8d1-e1ad16eb045d)
+ - [(2021) AWS Certified Solutions Architect – Associate](https://www.youracclaim.com/badges/2f742782-9432-432c-a38f-11c95d4a0359)
  
 #### Lifelong learning
  - [Architecting with Google Kubernetes Engine Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/2YAPUHL7DTBS)
