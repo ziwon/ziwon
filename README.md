@@ -7,18 +7,6 @@
 [![gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yngpil.yoon@gmail.com)
 [![restack](https://img.shields.io/badge/restack-0077B5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://restack.tech)
 
-
-
-### GitHub Stats
-<p align="center">
-<a href="https://github.com/ziwon/ziwon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ziwon&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/ziwon/ziwon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziwon&hide=html,css,jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-</p>
-
 ### Projects
 
 #### DevOps
