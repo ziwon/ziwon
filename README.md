@@ -5,7 +5,9 @@
 [![gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yngpil.yoon@gmail.com)
 
 ### Projects
-
+#### MLOps 
+ - [ml-helmfiles](https://github.com/ziwon/ml-helmfiles): Simplified ML training/inference demonstration using Minikube and helmfiles
+   
 #### DevOps
  - [dokkery](https://github.com/ziwon/dokkery): Docker registry event handler for CI/CD
  - [terraform-vpc-network](https://github.com/ziwon/terraform-vpc-network): Terraform VPC networking for site-to-site VPN
