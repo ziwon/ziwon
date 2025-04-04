@@ -10,7 +10,7 @@ I'm a passionate MLOps & DevOps engineer with a focus on building scalable and e
 
 ## 🚀 Current Focus
 - Working on a hybrid multi-cloud architecture with GCP and AWS, leveraging GPUs and advanced networking for machine learning workloads.
-- Automating the deployment and monitoring of Kubernetes clusters and infrastructure using Terraform, Ansible, Helm, and Argo Workflows.
+- Automating the deployment and monitoring of Kubernetes clusters and infrastructure using Terraform, Ansible, Helmfile.
 - Exploring new AI/ML technologies and tools for scaling training and inference pipelines.
 
 ## 🌟 Featured Projects
