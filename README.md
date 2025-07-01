@@ -14,7 +14,7 @@ I'm a passionate MLOps & DevOps engineer with a focus on building scalable and e
 
 ## 🌟 Featured Projects
 - [ml-helmfiles](https://github.com/ziwon/ml-helmfiles): Simplified ML training/inference demonstration using Minikube and Helmfiles.
-- [ducklake](https://github.com/ziwon/ducklake): A lightweight data lake platform leveraging Apache Iceberg, DuckDB, and MinIO, featuring Git-style branching and cataloging with Project Nessie. ("Scheduled for reimplementation following the official release of Ducklake.)
+- [ducklake](https://github.com/ziwon/ducklake): A lightweight data lake platform leveraging Apache Iceberg, DuckDB, and MinIO, featuring Git-style branching and cataloging with Project Nessie. (*Scheduled for reimplementation following the official release of Ducklake.*)
 - [feastflow](https://github.com/ziwon/FeastFlow): (Private) Real-time Feature Store for Financial Markets, Powered by ScyllaDB, Feast, and ML Intelligence
 - [llm-trainer](https://github.com/ziwon/llm-trinaer): (Private, In developing) Unified Accelerate-Based Distributed LLM Training tool
 - [xdump](https://github.com/ziwon/xdump): Daily packet capturing written in Rust.
