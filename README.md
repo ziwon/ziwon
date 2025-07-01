@@ -7,11 +7,6 @@ I'm a passionate MLOps & DevOps engineer with a focus on building scalable and e
 [![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yngpil.yoon@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeongpil-yoon/)
 
-## 🚀 Current Focus
-- Working on a hybrid multi-cloud architecture with GCP and AWS, leveraging GPUs and advanced networking for machine learning workloads.
-- Automating the deployment and monitoring of Kubernetes clusters and infrastructure using Terraform, Ansible, Helmfile.
-- Exploring new AI/ML technologies and tools for scaling training and inference pipelines.
-
 ## 🌟 Featured Projects
 - [ml-helmfiles](https://github.com/ziwon/ml-helmfiles): Simplified ML training/inference demonstration using Minikube and Helmfiles.
 - [ducklake](https://github.com/ziwon/ducklake): A lightweight data lake platform leveraging Apache Iceberg, DuckDB, and MinIO, featuring Git-style branching and cataloging with Project Nessie. (*Scheduled for reimplementation following the official release of Ducklake.*)
