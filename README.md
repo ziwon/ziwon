@@ -13,4 +13,12 @@ I'm a passionate MLOps & DevOps engineer with a focus on building scalable and e
 - [xdump](https://github.com/ziwon/xdump): Daily packet capturing written in Rust.
 ---
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ziwon&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/ziwon"
+  width="600"
+  height="300"
+/>
+</a>
+
 Feel free to connect with me! 😊
