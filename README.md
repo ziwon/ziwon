@@ -97,10 +97,9 @@ Real-time AI English speaking coach for engineers using **Gemini Live, structure
 
 ## 🔬 Other Projects
 
-* **[Kernel Lens](https://kernel-lens.pages.dev/)** — Interactive Linux kernel learning
 * **[CapEx Lens](https://capex-lens.pages.dev/)** — AI infrastructure CAPEX and hyperscaler economics dashboard
-* **[AKBO](https://akbo.pages.dev/)** — Web product experiment
-
+* **[Kernel Lens](https://kernel-lens.pages.dev/)** — A clearer view into Linux kernel development.
+* **[AKBO](https://akbo.pages.dev/)** — A lightweight, tablet-friendly sheet music viewer for piano player.
 ---
 
 ## 🌱 Currently Deepening
