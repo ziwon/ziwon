@@ -1,4 +1,4 @@
-# Hi, I'm Youngpil 👋
+# Hi, I'm Yeongpil 👋
 
 **Senior DevOps / MLOps Engineer | AI Infrastructure · GPU Platforms · Kubernetes · Linux Systems**
 
