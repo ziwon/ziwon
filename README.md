@@ -17,13 +17,13 @@ My current focus is **AI Factory engineering** — GPU platforms, cluster networ
 
 ---
 
+## 🏭 AI Factory / GPU Infrastructure
+
 ### [AI Data Center Systems](https://adcs.restack.tech/)
 
 AI infrastructure knowledge system covering **GPU, RDMA/InfiniBand/RoCE, storage, distributed training, inference, MLOps, and performance engineering**.
 
 [Explore ADCS →](https://adcs.restack.tech/)
-
-## 🏭 AI Factory / GPU Infrastructure
 
 ### [AI Factory Network Twin](https://github.com/restack/ai-factory-network-twin)
 
