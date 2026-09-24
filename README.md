@@ -17,6 +17,12 @@ My current focus is **AI Factory engineering** — GPU platforms, cluster networ
 
 ---
 
+### [AI Data Center Systems](https://adcs.restack.tech/)
+
+AI infrastructure knowledge system covering **GPU, RDMA/InfiniBand/RoCE, storage, distributed training, inference, MLOps, and performance engineering**.
+
+[Explore ADCS →](https://adcs.restack.tech/)
+
 ## 🏭 AI Factory / GPU Infrastructure
 
 ### [AI Factory Network Twin](https://github.com/restack/ai-factory-network-twin)
@@ -36,12 +42,6 @@ Rust + eBPF diagnostic tool for finding **hidden shared-memory and CUDA memory p
 GPU video reasoning platform combining **DeepStream perception, VLM verification, Kubernetes, and multi-stream inference**.
 
 `DeepStream` · `CUDA` · `Kubernetes` · `VLM` · `FastAPI`
-
-### [AI Data Center Systems](https://adcs.restack.tech/)
-
-AI infrastructure knowledge system covering **GPU, RDMA/InfiniBand/RoCE, storage, distributed training, inference, MLOps, and performance engineering**.
-
-[Explore ADCS →](https://adcs.restack.tech/)
 
 ### [CrashShoot](https://github.com/ziwon/crashshoot)
 
