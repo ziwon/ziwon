@@ -1,6 +1,6 @@
 # Hi, I'm Aaron 👋
 
-**Senior Staff Engineer | AI Infrastructure · GPU Platforms · Kubernetes · Linux Systems**
+**Senior Staff Engineer | AI Infrastructure · GPU Platforms · Kubernetes · Cloud · Linux Systems**
 
 Building AI infrastructure from the kernel to the cluster — and from the cluster to the model.
 
