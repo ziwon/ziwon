@@ -22,6 +22,8 @@ Currently exploring distributed GPU communication, AI storage paths, and GPU/Lin
 | Area | Project | Description |
 | --- | --- | --- |
 | AI Factory | [ai-data-center-systems](https://github.com/ziwon/ai-data-center-systems) | GPU, networking, storage, training, and inference reference |
+| AI Factory | [ai-factory-network-twin](https://github.com/restack/ai-factory-network-twin) | NetBox-driven network digital twin for validating BGP, ECMP, isolation, and failure recovery with Containerlab |
+| AI Industry | [capex-lens](https://github.com/ziwon/capex-lens) | Dashboard tracking the AI infrastructure investment cycle through market indicators |
 | GPU & Storage | [gds-lab](https://github.com/ziwon/gds-lab) | Storage-to-GPU data paths and GPUDirect Storage experiments |
 | GPU & Storage | [ghostmem](https://github.com/ziwon/ghostmem) | eBPF diagnostics for shared-memory and CUDA-related OOM pressure |
 | GPU & Storage | [ansible-role-nvidia-container-toolkit](https://github.com/ziwon/ansible-role-nvidia-container-toolkit) | Automated NVIDIA Container Toolkit provisioning |
@@ -41,3 +43,5 @@ Currently exploring distributed GPU communication, AI storage paths, and GPU/Lin
 | LLMOps & Tooling | [FlareGraph](https://github.com/ziwon/FlareGraph) | Cloudflare-native knowledge graphs and MCP retrieval |
 | LLMOps & Tooling | [skills](https://github.com/ziwon/skills) | Reusable agent skills for engineering workflows |
 | LLM Applications | [jev-iab-explorer](https://github.com/ziwon/jev-iab-explorer) | Video classification with resumable processing and provider safeguards |
+| Personal | [akbo](https://github.com/ziwon/akbo) | Offline-ready piano sheet music viewer for iPad and desktop |
+| Personal | [speak-loop](https://github.com/ziwon/speak-loop) | English speaking coach for engineers with real-time voice practice, feedback, and spaced review |
