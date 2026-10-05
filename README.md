@@ -1,19 +1,23 @@
 # Hi, I'm Aaron 👋
 
-**Senior DevOps / MLOps Engineer | AI Infrastructure · GPU Platforms · Kubernetes · Linux Systems**
+**Senior Staff Engineer | AI Infrastructure · GPU Platforms · Kubernetes · Linux Systems**
 
-I build infrastructure where **GPU compute, high-performance networking, Kubernetes, storage, and ML workloads** meet.
+Building AI infrastructure from the kernel to the cluster — and from the cluster to the model.
 
-My current focus is **AI Factory engineering** — GPU platforms, cluster networking, Linux reliability, and production ML infrastructure.
+I build GPU platforms and production ML infrastructure across Linux, Kubernetes, networking, and storage.
 
-## ⚡ AI Infrastructure Focus
+## AI Infrastructure
 
-* **GPU Platforms** — NVIDIA GPUs, CUDA, DeepStream, DCGM, training & inference
-* **AI Cluster Networking** — InfiniBand, RDMA/RoCE, Clos, BGP/ECMP, NetBox
-* **Kubernetes** — Kubernetes, CNI, GPU workloads, Helm, GitOps
-* **Linux Reliability** — eBPF, cgroups, OOM analysis, kernel diagnostics
-* **MLOps** — model lifecycle, evaluation, lineage, serving, observability
-* **Automation** — AWS, Terraform, Ansible, GitHub Actions, CI/CD
+- **GPU Platforms** — NVIDIA GPUs, CUDA, DeepStream, DCGM, training and inference
+- **Cluster Networking** — InfiniBand, RDMA/RoCE, Clos fabrics, BGP/ECMP, NetBox
+- **Kubernetes** — GPU workloads, CNI, Helm, GitOps
+- **Linux Reliability** — eBPF, cgroups, OOM analysis, kernel diagnostics
+- **MLOps** — model lifecycle, evaluation, lineage, serving, observability
+- **Automation** — AWS, Terraform, Ansible, GitHub Actions, CI/CD
+
+Currently exploring distributed GPU communication, AI storage paths, and GPU/Linux performance engineering.
+
+## Selected Projects
 
 ---
 
@@ -41,20 +45,3 @@ My current focus is **AI Factory engineering** — GPU platforms, cluster networ
 | LLMOps & Tooling | [FlareGraph](https://github.com/ziwon/FlareGraph) | Cloudflare-native knowledge graphs and MCP retrieval |
 | LLMOps & Tooling | [skills](https://github.com/ziwon/skills) | Reusable agent skills for engineering workflows |
 | LLM Applications | [jev-iab-explorer](https://github.com/ziwon/jev-iab-explorer) | Video classification with resumable processing and provider safeguards |
-
----
-
-## 🌱 Currently Deepening
-
-* NVIDIA AI Factory architectures
-* GPU cluster operations
-* InfiniBand / RDMA / RoCE
-* NCCL and distributed GPU communication
-* Kubernetes GPU orchestration
-* NVIDIA GPU / Network Operators
-* AI storage and data paths
-* GPU / Linux performance engineering
-
----
-
-> **Building AI infrastructure from the kernel to the cluster — and from the cluster to the model.**
