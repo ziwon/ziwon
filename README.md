@@ -17,11 +17,7 @@ I build GPU platforms and production ML infrastructure across Linux, Kubernetes,
 
 Currently exploring distributed GPU communication, AI storage paths, and GPU/Linux performance engineering.
 
-## Selected Projects
-
----
-
-## AI Factory / DevOps / MLOps
+## Recent Projects
 
 | Area | Project | Description |
 | --- | --- | --- |
