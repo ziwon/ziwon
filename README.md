@@ -17,89 +17,31 @@ My current focus is **AI Factory engineering** — GPU platforms, cluster networ
 
 ---
 
-## 🏭 AI Factory / GPU Infrastructure
+## AI Factory / DevOps / MLOps
 
-### [AI Data Center Systems](https://adcs.restack.tech/)
+| Area | Project | Description |
+| --- | --- | --- |
+| AI Factory | [ai-data-center-systems](https://github.com/ziwon/ai-data-center-systems) | GPU, networking, storage, training, and inference reference |
+| GPU & Storage | [gds-lab](https://github.com/ziwon/gds-lab) | Storage-to-GPU data paths and GPUDirect Storage experiments |
+| GPU & Storage | [ghostmem](https://github.com/ziwon/ghostmem) | eBPF diagnostics for shared-memory and CUDA-related OOM pressure |
+| GPU & Storage | [ansible-role-nvidia-container-toolkit](https://github.com/ziwon/ansible-role-nvidia-container-toolkit) | Automated NVIDIA Container Toolkit provisioning |
+| DevOps & Reliability | [crashshoot](https://github.com/ziwon/crashshoot) | Containerized Linux kernel debugging and vmcore postmortem analysis |
+| DevOps & Reliability | [tail-lifter](https://github.com/ziwon/tail-lifter) | eBPF connectivity from Tailscale clients to Kubernetes services |
+| DevOps & Reliability | [kernel-lens](https://github.com/ziwon/kernel-lens) | Evidence-linked AI summaries of Linux kernel development |
+| DevOps & Reliability | [linux-boot-optimization-lab](https://github.com/ziwon/linux-boot-optimization-lab) | Boot and latency analysis for embedded Linux and physical AI |
+| Data Pipelines | [drizzler](https://github.com/ziwon/drizzler) | Adaptive data collection and LLM summarization with API and Helm deployment |
+| MLOps & Edge | [model-port-gateway](https://github.com/ziwon/model-port-gateway) | Model intake, fine-tuning, validation, and rollout reference |
+| MLOps & Edge | [vision-mlops](https://github.com/ziwon/vision-mlops) | Vision lifecycle reference from annotation to ONNX deployment |
+| MLOps & Edge | [nimbus](https://github.com/ziwon/nimbus) | GPU-aware orchestration and rollout for edge AI workloads |
+| MLOps & Edge | [vrs](https://github.com/ziwon/vrs) | Video reasoning with perception, VLM verification, and Kubernetes |
+| MLOps & Edge | [cp-fp-mining-lab](https://github.com/ziwon/cp-fp-mining-lab) | Reviewed false-positive mining and detector retraining |
+| MLOps & Edge | [ml-helmfiles](https://github.com/ziwon/ml-helmfiles) | Kubernetes training and Triton inference with Helmfile |
+| LLMOps & Tooling | [rag-adapt-lab](https://github.com/ziwon/rag-adapt-lab) | Reproducible RAG, SFT, and RAFT evaluation |
+| LLMOps & Tooling | [llm-serving-lab](https://github.com/ziwon/llm-serving-lab) | GPU benchmarks and observability for LLM serving engines |
+| LLMOps & Tooling | [FlareGraph](https://github.com/ziwon/FlareGraph) | Cloudflare-native knowledge graphs and MCP retrieval |
+| LLMOps & Tooling | [skills](https://github.com/ziwon/skills) | Reusable agent skills for engineering workflows |
+| LLM Applications | [jev-iab-explorer](https://github.com/ziwon/jev-iab-explorer) | Video classification with resumable processing and provider safeguards |
 
-AI infrastructure knowledge system covering **GPU, RDMA/InfiniBand/RoCE, storage, distributed training, inference, MLOps, and performance engineering**.
-
-[Explore ADCS →](https://adcs.restack.tech/)
-
-### [AI Factory Network Twin](https://github.com/restack/ai-factory-network-twin)
-
-Executable AI cluster network lab using **NetBox, Containerlab, Clos fabrics, BGP/ECMP, failure injection, and automated validation**.
-
-`NetBox` · `Containerlab` · `FRR` · `BGP` · `ECMP` · `Clos`
-
-### [ghostmem](https://github.com/ziwon/ghostmem)
-
-Rust + eBPF diagnostic tool for finding **hidden shared-memory and CUDA memory pressure behind Linux cgroup OOM failures**.
-
-`Rust` · `eBPF` · `cgroups` · `CUDA` · `Linux`
-
-### [VRS — Video Reasoning System](https://github.com/ziwon/vrs)
-
-GPU video reasoning platform combining **DeepStream perception, VLM verification, Kubernetes, and multi-stream inference**.
-
-`DeepStream` · `CUDA` · `Kubernetes` · `VLM` · `FastAPI`
-
-### [CrashShoot](https://github.com/ziwon/crashshoot)
-
-Go-based Linux kernel postmortem toolkit for **validated `vmcore` analysis and evidence-backed crash diagnostics**.
-
-`Go` · `Linux Kernel` · `vmcore` · `crash` · `drgn`
-
----
-
-## 🤖 ML Platforms / Production ML
-
-### [Vision MLOps Reference](https://github.com/ziwon/vision-mlops)
-
-Production-shaped computer vision lifecycle from **dataset and training to evaluation, promotion, ONNX deployment, and drift monitoring**.
-
-`PyTorch` · `CV` · `MLOps` · `ONNX` · `W&B`
-
-### [CV False Positive Mining Lab](https://github.com/ziwon/cp-fp-mining-lab)
-
-Active-learning pipeline turning production **false positives into reviewed hard negatives, retraining data, and promotion signals**.
-
-`YOLO` · `CLIP` · `Label Studio` · `W&B`
-
-### [RAG Adapt Lab](https://github.com/ziwon/rag-adapt-lab)
-
-GPU research harness comparing **RAG, SFT, and RAFT** across quality, latency, and VRAM trade-offs.
-
-`NVIDIA GPU` · `QLoRA` · `RAG` · `RAFT` · `LLM Evaluation`
-
----
-
-## 🧩 Infrastructure / Developer Platforms
-
-### [FlareGraph](https://github.com/ziwon/FlareGraph)
-
-Cloudflare-native **LLM knowledge graph and MCP retrieval backend** for Obsidian and Markdown knowledge bases.
-
-`Cloudflare Workers` · `R2` · `D1` · `Vectorize` · `MCP`
-
-### [Restack Actions](https://github.com/restack/actions)
-
-Reusable GitHub Actions for **Kubernetes delivery and AI-assisted repository automation**.
-
-`GitHub Actions` · `Kubernetes` · `GitHub Apps`
-
-### [SpeakLoop](https://speak-loop.pages.dev/)
-
-Real-time AI English speaking coach for engineers using **Gemini Live, structured feedback, authentication, and usage quotas**.
-
-[Try SpeakLoop →](https://speak-loop.pages.dev/)
-
----
-
-## 🔬 Other Projects
-
-* **[CapEx Lens](https://capex-lens.pages.dev/)** — AI infrastructure CAPEX and hyperscaler economics dashboard
-* **[Kernel Lens](https://kernel-lens.pages.dev/)** — A clearer view into Linux kernel development.
-* **[AKBO](https://akbo.pages.dev/)** — A lightweight, tablet-friendly sheet music viewer for piano player.
 ---
 
 ## 🌱 Currently Deepening
