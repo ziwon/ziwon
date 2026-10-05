@@ -44,4 +44,4 @@ Currently exploring distributed GPU communication, AI storage paths, and GPU/Lin
 | LLMOps & Tooling | [skills](https://github.com/ziwon/skills) | Reusable agent skills for engineering workflows |
 | LLM Applications | [jev-iab-explorer](https://github.com/ziwon/jev-iab-explorer) | Video classification with resumable processing and provider safeguards |
 | Personal | [akbo](https://github.com/ziwon/akbo) | Offline-ready piano sheet music viewer for iPad and desktop |
-| Personal | [speak-loop](https://github.com/ziwon/speak-loop) | English speaking coach for engineers with real-time voice practice, feedback, and spaced review |
+| Personal | [speak-loop](speak-loop.pages.dev/) | English speaking coach for engineers with real-time voice practice, feedback, and spaced review |
