@@ -43,5 +43,7 @@ Currently exploring distributed GPU communication, AI storage paths, and GPU/Lin
 | LLMOps | [FlareGraph](https://github.com/ziwon/FlareGraph) | Cloudflare-native knowledge graphs and MCP retrieval |
 | LLMOps | [skills](https://github.com/ziwon/skills) | Reusable agent skills for engineering workflows |
 | LLM Applications | [jev-iab-explorer](https://github.com/ziwon/jev-iab-explorer) | Video classification with resumable processing and provider safeguards |
+| Open Source | [ai-factory-ops-lab #39](https://github.com/ld-singh/ai-factory-ops-lab/pull/39) | Added a topology-driven GPU fleet simulation lab with Volcano gang scheduling and runnable demos |
+| Open Source | [mountpoint-s3 #1957](https://github.com/awslabs/mountpoint-s3/pull/1957) | Fixed stale S3 client metrics through periodic polling and added regression tests |
 | Personal | [akbo](https://github.com/ziwon/akbo) | Offline-ready piano sheet music viewer for iPad and desktop |
 | Personal | [speak-loop](https://speak-loop.pages.dev/) | English speaking coach for engineers with real-time voice practice, feedback, and spaced review |
