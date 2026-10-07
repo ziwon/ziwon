@@ -23,6 +23,7 @@ Currently exploring distributed GPU communication, AI storage paths, and GPU/Lin
 | --- | --- | --- |
 | AI Factory | [ai-data-center-systems](https://github.com/ziwon/ai-data-center-systems) | GPU, networking, storage, training, and inference reference |
 | AI Factory | [ai-factory-network-twin](https://github.com/restack/ai-factory-network-twin) | NetBox-driven network digital twin for validating BGP, ECMP, isolation, and failure recovery with Containerlab |
+| AI Factoiry | [ai-factory-ops-lab #39](https://github.com/ld-singh/ai-factory-ops-lab/pull/39) | (OSS) Added a topology-driven GPU fleet simulation lab with Volcano gang scheduling and runnable demos |
 | AI Industry | [capex-lens](https://github.com/ziwon/capex-lens) | Dashboard tracking the AI infrastructure investment cycle through market indicators |
 | GPU | [gds-lab](https://github.com/ziwon/gds-lab) | Storage-to-GPU data paths and GPUDirect Storage experiments |
 | GPU | [ghostmem](https://github.com/ziwon/ghostmem) | eBPF diagnostics for shared-memory and CUDA-related OOM pressure |
@@ -31,6 +32,7 @@ Currently exploring distributed GPU communication, AI storage paths, and GPU/Lin
 | DevOps | [tail-lifter](https://github.com/ziwon/tail-lifter) | eBPF connectivity from Tailscale clients to Kubernetes services |
 | DevOps | [kernel-lens](https://github.com/ziwon/kernel-lens) | Evidence-linked AI summaries of Linux kernel development |
 | DevOps | [linux-boot-optimization-lab](https://github.com/ziwon/linux-boot-optimization-lab) | Boot and latency analysis for embedded Linux and physical AI |
+| DevOps | [mountpoint-s3 #1957](https://github.com/awslabs/mountpoint-s3/pull/1957) | (OSS) Fixed stale S3 client metrics through periodic polling and added regression tests |
 | Data Pipelines | [drizzler](https://github.com/ziwon/drizzler) | Adaptive data collection and LLM summarization with API and Helm deployment |
 | MLOps | [model-port-gateway](https://github.com/ziwon/model-port-gateway) | Model intake, fine-tuning, validation, and rollout reference |
 | MLOps | [vision-mlops](https://github.com/ziwon/vision-mlops) | Vision lifecycle reference from annotation to ONNX deployment |
@@ -43,7 +45,5 @@ Currently exploring distributed GPU communication, AI storage paths, and GPU/Lin
 | LLMOps | [FlareGraph](https://github.com/ziwon/FlareGraph) | Cloudflare-native knowledge graphs and MCP retrieval |
 | LLMOps | [skills](https://github.com/ziwon/skills) | Reusable agent skills for engineering workflows |
 | LLM Applications | [jev-iab-explorer](https://github.com/ziwon/jev-iab-explorer) | Video classification with resumable processing and provider safeguards |
-| OSS | [ai-factory-ops-lab #39](https://github.com/ld-singh/ai-factory-ops-lab/pull/39) | Added a topology-driven GPU fleet simulation lab with Volcano gang scheduling and runnable demos |
-| OSS | [mountpoint-s3 #1957](https://github.com/awslabs/mountpoint-s3/pull/1957) | Fixed stale S3 client metrics through periodic polling and added regression tests |
 | Personal | [akbo](https://github.com/ziwon/akbo) | Offline-ready piano sheet music viewer for iPad and desktop |
 | Personal | [speak-loop](https://speak-loop.pages.dev/) | English speaking coach for engineers with real-time voice practice, feedback, and spaced review |
