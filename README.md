@@ -23,7 +23,7 @@ Currently exploring distributed GPU communication, AI storage paths, and GPU/Lin
 | --- | --- | --- |
 | AI Factory | [ai-data-center-systems](https://github.com/ziwon/ai-data-center-systems) | GPU, networking, storage, training, and inference reference |
 | AI Factory | [ai-factory-network-twin](https://github.com/restack/ai-factory-network-twin) | NetBox-driven network digital twin for validating BGP, ECMP, isolation, and failure recovery with Containerlab |
-| AI Factoiry | [ai-factory-ops-lab #39](https://github.com/ld-singh/ai-factory-ops-lab/pull/39) | (OSS) Added a topology-driven GPU fleet simulation lab with Volcano gang scheduling and runnable demos |
+| AI Factory | [ai-factory-ops-lab #39](https://github.com/ld-singh/ai-factory-ops-lab/pull/39) | (OSS) Added a topology-driven GPU fleet simulation lab with Volcano gang scheduling and runnable demos |
 | AI Industry | [capex-lens](https://github.com/ziwon/capex-lens) | Dashboard tracking the AI infrastructure investment cycle through market indicators |
 | GPU | [gds-lab](https://github.com/ziwon/gds-lab) | Storage-to-GPU data paths and GPUDirect Storage experiments |
 | GPU | [ghostmem](https://github.com/ziwon/ghostmem) | eBPF diagnostics for shared-memory and CUDA-related OOM pressure |
