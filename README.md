@@ -28,6 +28,7 @@ Currently exploring distributed GPU communication, AI storage paths, and GPU/Lin
 | GPU | [gds-lab](https://github.com/ziwon/gds-lab) | Storage-to-GPU data paths and GPUDirect Storage experiments |
 | GPU | [ghostmem](https://github.com/ziwon/ghostmem) | eBPF diagnostics for shared-memory and CUDA-related OOM pressure |
 | GPU | [ansible-role-nvidia-container-toolkit](https://github.com/ziwon/ansible-role-nvidia-container-toolkit) | Automated NVIDIA Container Toolkit provisioning |
+| GitOps |  [homelab](https://github.com/ziwon/homelab) | A modular Kubernetes homelab that evolves from GitOps automation to AI-driven orchestration | 
 | DevOps | [crashshoot](https://github.com/ziwon/crashshoot) | Containerized Linux kernel debugging and vmcore postmortem analysis |
 | DevOps | [tail-lifter](https://github.com/ziwon/tail-lifter) | eBPF connectivity from Tailscale clients to Kubernetes services |
 | DevOps | [kernel-lens](https://github.com/ziwon/kernel-lens) | Evidence-linked AI summaries of Linux kernel development |
