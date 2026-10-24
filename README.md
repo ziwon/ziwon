@@ -36,6 +36,7 @@ Currently exploring distributed GPU communication, AI storage paths, and GPU/Lin
 | DevOps | [mountpoint-s3 #1957](https://github.com/awslabs/mountpoint-s3/pull/1957) | (OSS) Fixed stale S3 client metrics through periodic polling and added regression tests |
 | Data Pipelines | [drizzler](https://github.com/ziwon/drizzler) | Adaptive data collection and LLM summarization with API and Helm deployment |
 | MLOps | [model-port-gateway](https://github.com/ziwon/model-port-gateway) | Model intake, fine-tuning, validation, and rollout reference |
+| MLOps | [llm-trainer](https://github.com/ziwon/llm-trainer) | Modern multi-node LLM fine-tuning framework for 64 GPUs on DGX B200 |
 | MLOps | [vision-mlops](https://github.com/ziwon/vision-mlops) | Vision lifecycle reference from annotation to ONNX deployment |
 | MLOps | [nimbus](https://github.com/ziwon/nimbus) | GPU-aware orchestration and rollout for edge AI workloads |
 | MLOps | [vrs](https://github.com/ziwon/vrs) | Video reasoning with perception, VLM verification, and Kubernetes |
