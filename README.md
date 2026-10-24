@@ -35,13 +35,13 @@ Currently exploring distributed GPU communication, AI storage paths, and GPU/Lin
 | DevOps | [linux-boot-optimization-lab](https://github.com/ziwon/linux-boot-optimization-lab) | Boot and latency analysis for embedded Linux and physical AI |
 | DevOps | [mountpoint-s3 #1957](https://github.com/awslabs/mountpoint-s3/pull/1957) | (OSS) Fixed stale S3 client metrics through periodic polling and added regression tests |
 | Data Pipelines | [drizzler](https://github.com/ziwon/drizzler) | Adaptive data collection and LLM summarization with API and Helm deployment |
-| MLOps | [model-port-gateway](https://github.com/ziwon/model-port-gateway) | Model intake, fine-tuning, validation, and rollout reference |
 | MLOps | [llm-trainer](https://github.com/ziwon/llm-trainer) | Modern multi-node LLM fine-tuning framework for 64 GPUs on DGX B200 |
+| MLOps | [ml-helmfiles](https://github.com/ziwon/ml-helmfiles) | Kubernetes training and Triton inference with Helmfile |
 | MLOps | [vision-mlops](https://github.com/ziwon/vision-mlops) | Vision lifecycle reference from annotation to ONNX deployment |
 | MLOps | [nimbus](https://github.com/ziwon/nimbus) | GPU-aware orchestration and rollout for edge AI workloads |
 | MLOps | [vrs](https://github.com/ziwon/vrs) | Video reasoning with perception, VLM verification, and Kubernetes |
+| MLOps | [model-port-gateway](https://github.com/ziwon/model-port-gateway) | Model intake, fine-tuning, validation, and rollout reference |
 | MLOps | [cp-fp-mining-lab](https://github.com/ziwon/cp-fp-mining-lab) | Reviewed false-positive mining and detector retraining |
-| MLOps | [ml-helmfiles](https://github.com/ziwon/ml-helmfiles) | Kubernetes training and Triton inference with Helmfile |
 | LLMOps | [rag-adapt-lab](https://github.com/ziwon/rag-adapt-lab) | Reproducible RAG, SFT, and RAFT evaluation |
 | LLMOps | [llm-serving-lab](https://github.com/ziwon/llm-serving-lab) | GPU benchmarks and observability for LLM serving engines |
 | LLMOps | [FlareGraph](https://github.com/ziwon/FlareGraph) | Cloudflare-native knowledge graphs and MCP retrieval |
