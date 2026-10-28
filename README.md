@@ -17,7 +17,19 @@ I build GPU platforms and production ML infrastructure across Linux, Kubernetes,
 
 Currently exploring distributed GPU communication, AI storage paths, and GPU/Linux performance engineering.
 
-## Recent Projects
+## GPU & AI Labs
+
+Interactive, browser-based simulators for GPU communication, distributed training, and LLM inference. No GPU or CUDA required.
+
+| Lab | Description | Demo | Source |
+| --- | --- | --- | --- |
+| NCCL Lab | Visualize GPU collective communication, Ring/Tree algorithms, and data transfers. | [Live](https://nccl-lab.pages.dev/) | [GitHub](https://github.com/ziwon/nccl-lab) |
+| Parallel Training Lab | Explore DDP, FSDP, TP, PP, and EP with memory and communication timelines. | [Live](https://parallel-training-lab.pages.dev/) | [GitHub](https://github.com/ziwon/parallel-training-lab) |
+| Inference Lab | Simulate LLM serving, continuous batching, KV cache, and prefill/decode scheduling. | [Live](https://inference-lab.pages.dev/) | [GitHub](https://github.com/ziwon/inference-lab) |
+
+*Educational simulations, not hardware benchmarks.*
+
+## Projects
 
 | Area | Project | Description |
 | --- | --- | --- |
