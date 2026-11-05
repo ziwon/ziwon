@@ -61,3 +61,4 @@ Interactive, browser-based simulators for GPU communication, distributed trainin
 | Personal | [jev-iab-explorer](https://github.com/ziwon/jev-iab-explorer) | Video classification with resumable processing and provider safeguards |
 | Personal | [akbo](https://github.com/ziwon/akbo) | Offline-ready piano sheet music viewer for iPad and desktop |
 | Personal | [speak-loop](https://speak-loop.pages.dev/) | English speaking coach for engineers with real-time voice practice, feedback, and spaced review |
+| Personal | [bluesify](https://bluesify.pages.dev/) | Step-by-step jazz/blues arrangement engine for self-learning piano
