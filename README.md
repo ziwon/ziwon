@@ -52,6 +52,7 @@ Interactive, browser-based simulators for GPU communication, distributed trainin
 | LLMOps | [FlareGraph](https://github.com/ziwon/FlareGraph) | Cloudflare-native knowledge graphs and MCP retrieval |
 | LLMOps | [skills](https://github.com/ziwon/skills) | Reusable agent skills for engineering workflows |
 | GitOps |  [homelab](https://github.com/ziwon/homelab) | A modular Kubernetes homelab that evolves from GitOps automation to AI-driven orchestration | 
+| GitOps | [opentofu-foundation-tempalte](https://github.com/ziwon/opentofu-foundation-tempalte) | A GitOps-enabled OpenTofu monorepo template for AWS, Azure, and GCP | 
 | DevOps | [crashshoot](https://github.com/ziwon/crashshoot) | Containerized Linux kernel debugging and vmcore postmortem analysis |
 | DevOps | [tail-lifter](https://github.com/ziwon/tail-lifter) | eBPF connectivity from Tailscale clients to Kubernetes services |
 | DevOps | [kernel-lens](https://github.com/ziwon/kernel-lens) | Evidence-linked AI summaries of Linux kernel development |
