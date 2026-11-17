@@ -26,6 +26,7 @@ Interactive, browser-based simulators for GPU communication, distributed trainin
 | NCCL Lab | Visualize GPU collective communication, Ring/Tree algorithms, and data transfers. | [Live](https://nccl-lab.pages.dev/) | [GitHub](https://github.com/ziwon/nccl-lab) |
 | Parallel Training Lab | Explore DDP, FSDP, TP, PP, and EP with memory and communication timelines. | [Live](https://parallel-training-lab.pages.dev/) | [GitHub](https://github.com/ziwon/parallel-training-lab) |
 | Inference Lab | Simulate LLM serving, continuous batching, KV cache, and prefill/decode scheduling. | [Live](https://inference-lab.pages.dev/) | [GitHub](https://github.com/ziwon/inference-lab) |
+| RDMA fabric Lab | RDMA, InfiniBand management and RoCE congestion control on one Ubuntu host. | [Web](https://ziwon.github.io/rdma-fabric-lab/) | [GitHub](https://github.com/ziwon/rdma-fabric-lab) | 
 
 *Educational simulations, not hardware benchmarks.*
 
