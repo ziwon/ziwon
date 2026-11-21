@@ -23,10 +23,10 @@ Interactive, browser-based simulators for GPU communication, distributed trainin
 
 | Lab | Description | Demo | Source |
 | --- | --- | --- | --- |
-| NCCL Lab | Visualize GPU collective communication, Ring/Tree algorithms, and data transfers. | [Live](https://nccl-lab.pages.dev/) | [GitHub](https://github.com/ziwon/nccl-lab) |
-| Parallel Training Lab | Explore DDP, FSDP, TP, PP, and EP with memory and communication timelines. | [Live](https://parallel-training-lab.pages.dev/) | [GitHub](https://github.com/ziwon/parallel-training-lab) |
-| Inference Lab | Simulate LLM serving, continuous batching, KV cache, and prefill/decode scheduling. | [Live](https://inference-lab.pages.dev/) | [GitHub](https://github.com/ziwon/inference-lab) |
-| RDMA fabric Lab | RDMA, InfiniBand management and RoCE congestion control on one Ubuntu host. | [Web](https://ziwon.github.io/rdma-fabric-lab/) | [GitHub](https://github.com/ziwon/rdma-fabric-lab) | 
+| NCCL Lab | Visualize GPU collective communication, Ring/Tree algorithms, and data transfers. | [Live](https://nccl.restack.tech) | [GitHub](https://github.com/ziwon/nccl-lab) |
+| Parallel Training Lab | Explore DDP, FSDP, TP, PP, and EP with memory and communication timelines. | [Live](https://parallel.restack.tech/) | [GitHub](https://github.com/ziwon/parallel-training-lab) |
+| Inference Lab | Simulate LLM serving, continuous batching, KV cache, and prefill/decode scheduling. | [Live](https://infer.restack.tech/) | [GitHub](https://github.com/ziwon/inference-lab) |
+| RDMA fabric Lab | RDMA, InfiniBand management and RoCE congestion control on one Ubuntu host. | [Web](https://rdma.restack.tech) | [GitHub](https://github.com/ziwon/rdma-fabric-lab) | 
 
 *Educational simulations, not hardware benchmarks.*
 
@@ -34,7 +34,7 @@ Interactive, browser-based simulators for GPU communication, distributed trainin
 
 | Area | Project | Description |
 | --- | --- | --- |
-| AI Factory | [ai-data-center-systems](https://github.com/ziwon/ai-data-center-systems) | GPU, networking, storage, training, and inference reference |
+| AI Factory | [ai-data-center-systems](https://github.com/ziwon/ai-data-center-systems) | AI data center knowledge base with document-grounded AI Q&A |
 | AI Factory | [ai-factory-network-twin](https://github.com/restack/ai-factory-network-twin) | NetBox-driven network digital twin for validating BGP, ECMP, isolation, and failure recovery with Containerlab |
 | AI Factory | [ai-factory-ops-lab #39](https://github.com/ld-singh/ai-factory-ops-lab/pull/39) | (OSS) Added a topology-driven GPU fleet simulation lab with Volcano gang scheduling and runnable demos |
 | AI Industry | [capex-lens](https://github.com/ziwon/capex-lens) | Dashboard tracking the AI infrastructure investment cycle through market indicators |
